@@ -1,0 +1,8 @@
+numpy>=1.26.0,<2.1.0
+tensorflow>=2.13.0,<2.19.0
+tensorflow-hub>=0.12.0
+flask
+python-dotenv
+pillow
+matplotlib
+keras-nlp
